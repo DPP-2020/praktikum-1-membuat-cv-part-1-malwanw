@@ -2,14 +2,12 @@
 h1{
     border: 2px solid black;
     text-align: center;
+}
+h2{
+    border: 2px solid black;
+    text-align: center;
     padding: 15px;
     margin: 20px;
-}
-h5{
-    display: inline-block;
-}
-p{
-    display: inline-block;
 }
 .profile{
     margin: 30px;
@@ -37,11 +35,6 @@ p{
     color: aquamarine;
 }
 
-@media(max-width: 576px){
-    .nama{
-        display: none;
-    }
-}
 @media(min-width: 576px){
 
 }
